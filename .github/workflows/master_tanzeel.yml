@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Tanzeel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA88CF6FAEF2407DB0E77A02FC4B36B2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A84D43ABF8904FCC90587D761F382BEB }}
